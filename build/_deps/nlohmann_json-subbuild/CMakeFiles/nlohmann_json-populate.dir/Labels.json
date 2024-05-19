@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/nlohmann_json-populate"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/f292456a5805c7b64e2d7ca7cc32da48/nlohmann_json-populate.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/7c040d87940e7610f0304c0777090214/nlohmann_json-populate-complete.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/9734153c52dc3187364447ed47a54908/nlohmann_json-populate-build.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/9734153c52dc3187364447ed47a54908/nlohmann_json-populate-configure.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/9734153c52dc3187364447ed47a54908/nlohmann_json-populate-download.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/9734153c52dc3187364447ed47a54908/nlohmann_json-populate-install.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/9734153c52dc3187364447ed47a54908/nlohmann_json-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/9734153c52dc3187364447ed47a54908/nlohmann_json-populate-patch.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/9734153c52dc3187364447ed47a54908/nlohmann_json-populate-test.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/CMakeFiles/9734153c52dc3187364447ed47a54908/nlohmann_json-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nlohmann_json-populate"
+		],
+		"name" : "nlohmann_json-populate"
+	}
+}

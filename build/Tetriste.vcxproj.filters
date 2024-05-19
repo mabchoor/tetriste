@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\utils\ResourceManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\ModeScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\GameScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\core\AnimationModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\core\RenderModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\core\TransformModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\core\UiModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\TitleScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\Leaderboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\SaveMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\headers\enums.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\headers\constants.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\headers\libs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\headers\Header.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\GameCycle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\core\RenderModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\Scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\GameScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\ModeScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\core\TransformModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\core\InputModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\core\UiModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\core\MatchModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\Board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\Gem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\Slot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\Button.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\Inventory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\Previewer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\LinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\core\AnimationModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\Background.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\Label.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\TitleScene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\Leaderboard.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Scenes\SaveMenu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\Session.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\src\Match-3\Entity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\nlohmann_json-src\nlohmann_json.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{42859277-C95B-37ED-9B20-31DDD8CCD3B2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C843058F-F551-39B1-9920-F07D9EA76E18}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

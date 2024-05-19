@@ -1,0 +1,3 @@
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/flecs-populate.dir
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/ALL_BUILD.dir
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/ZERO_CHECK.dir

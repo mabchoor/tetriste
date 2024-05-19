@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\CMakeFiles\69751c58fccda08a1af94c7b79e6ec2f\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{609434BF-D0D2-3DD5-B543-63A182D9FAEB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

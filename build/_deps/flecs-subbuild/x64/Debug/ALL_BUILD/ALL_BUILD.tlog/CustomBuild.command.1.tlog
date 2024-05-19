@@ -1,0 +1,10 @@
+^D:\GLSID1\S2\TETRISE-MAIN2\TETRISE-MAIN\BUILD\_DEPS\FLECS-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild -BD:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild --check-stamp-file D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

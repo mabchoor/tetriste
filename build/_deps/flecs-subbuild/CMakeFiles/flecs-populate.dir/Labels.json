@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/flecs-populate"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/b3edd4566cec9bd7cfb54ec0c40d5137/flecs-populate.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/309438a97d2911fa94d8d1e803395c5a/flecs-populate-complete.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/21b00edcb1de6c2cc9c5c784b2d32850/flecs-populate-build.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/21b00edcb1de6c2cc9c5c784b2d32850/flecs-populate-configure.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/21b00edcb1de6c2cc9c5c784b2d32850/flecs-populate-download.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/21b00edcb1de6c2cc9c5c784b2d32850/flecs-populate-install.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/21b00edcb1de6c2cc9c5c784b2d32850/flecs-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/21b00edcb1de6c2cc9c5c784b2d32850/flecs-populate-patch.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/21b00edcb1de6c2cc9c5c784b2d32850/flecs-populate-test.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/CMakeFiles/21b00edcb1de6c2cc9c5c784b2d32850/flecs-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"flecs-populate"
+		],
+		"name" : "flecs-populate"
+	}
+}

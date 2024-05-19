@@ -1,0 +1,768 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\alerts.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\app.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\coredoc.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\doc.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\expr\deserialize.c">
+      <Filter>src\addons\expr</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\expr\serialize.c">
+      <Filter>src\addons\expr</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\expr\utils.c">
+      <Filter>src\addons\expr</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\expr\vars.c">
+      <Filter>src\addons\expr</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\flecs_cpp.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\http.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\journal.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\json\deserialize.c">
+      <Filter>src\addons\json</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\json\json.c">
+      <Filter>src\addons\json</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\json\serialize.c">
+      <Filter>src\addons\json</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\json\serialize_iter_rows.c">
+      <Filter>src\addons\json</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\json\serialize_type_info.c">
+      <Filter>src\addons\json</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\log.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\meta\api.c">
+      <Filter>src\addons\meta</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\meta\cursor.c">
+      <Filter>src\addons\meta</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\meta\meta.c">
+      <Filter>src\addons\meta</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\meta\serialized.c">
+      <Filter>src\addons\meta</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\meta_c.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\metrics.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\module.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\monitor.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\os_api_impl\os_api_impl.c">
+      <Filter>src\addons\os_api_impl</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\parser.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\pipeline\pipeline.c">
+      <Filter>src\addons\pipeline</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\pipeline\worker.c">
+      <Filter>src\addons\pipeline</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\plecs.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\rest.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\rules\api.c">
+      <Filter>src\addons\rules</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\rules\compile.c">
+      <Filter>src\addons\rules</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\rules\engine.c">
+      <Filter>src\addons\rules</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\rules\trav_cache.c">
+      <Filter>src\addons\rules</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\rules\trav_down_cache.c">
+      <Filter>src\addons\rules</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\rules\trav_up_cache.c">
+      <Filter>src\addons\rules</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\rules\trivial_iter.c">
+      <Filter>src\addons\rules</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\snapshot.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\stats.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\system\system.c">
+      <Filter>src\addons\system</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\timer.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\addons\units.c">
+      <Filter>src\addons</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\bootstrap.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\allocator.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\bitset.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\block_allocator.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\hash.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\hashmap.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\map.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\name_index.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\sparse.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\stack_allocator.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\strbuf.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\switch_list.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\datastructures\vec.c">
+      <Filter>src\datastructures</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\entity.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\entity_filter.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\entity_name.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\filter.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\iter.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\misc.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\observable.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\observer.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\os_api.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\poly.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\query.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\search.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\stage.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\storage\entity_index.c">
+      <Filter>src\storage</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\storage\id_index.c">
+      <Filter>src\storage</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\storage\table.c">
+      <Filter>src\storage</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\storage\table_cache.c">
+      <Filter>src\storage</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\storage\table_graph.c">
+      <Filter>src\storage</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\value.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\src\world.c">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\alerts.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\app.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\coredoc.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\c_types.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\component.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\delegate.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\entity.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\entity_view.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\flecs.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\impl\iter.hpp">
+      <Filter>include\flecs\addons\cpp\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\impl\world.hpp">
+      <Filter>include\flecs\addons\cpp\impl</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\iter.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\lifecycle_traits.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\log.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\alerts\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\alerts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\alerts\builder_i.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\alerts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\alerts\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\alerts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\alerts\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\alerts</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\app\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\app</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\app\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\app</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\component\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\component</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\doc\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\doc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\doc\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\doc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\entity\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\entity</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\entity\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\entity</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\enum\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\enum</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\event\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\event</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\event\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\event</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\event\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\event</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\filter\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\filter</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\filter\builder_i.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\filter</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\filter\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\filter</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\filter\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\filter</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\id\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\id</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\id\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\id</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\json\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\json</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\meta\cursor.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\meta</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\meta\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\meta</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\meta\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\meta</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\meta\opaque.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\meta</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\metrics\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\metrics</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\metrics\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\metrics</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\metrics\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\metrics</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\module\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\module</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\monitor\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\monitor</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\monitor\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\monitor</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\observer\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\observer</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\observer\builder_i.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\observer</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\observer\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\observer</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\observer\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\observer</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\pipeline\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\pipeline\builder_i.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\pipeline\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\pipeline\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\query\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\query</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\query\builder_i.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\query</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\query\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\query</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\query\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\query</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\rest\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\rest</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\rest\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\rest</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\rule\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\rule</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\rule\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\rule</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\rule\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\rule</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\snapshot\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\snapshot</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\snapshot\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\snapshot</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\system\builder.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\system</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\system\builder_i.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\system</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\system\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\system</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\system\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\system</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\term\builder_i.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\term</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\term\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\term</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\term\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\term</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\timer\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\timer\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\timer</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\units\decl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\units</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\mixins\units\impl.hpp">
+      <Filter>include\flecs\addons\cpp\mixins\units</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\pair.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\ref.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\table.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\type.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\utils\array.hpp">
+      <Filter>include\flecs\addons\cpp\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\utils\builder.hpp">
+      <Filter>include\flecs\addons\cpp\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\utils\enum.hpp">
+      <Filter>include\flecs\addons\cpp\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\utils\function_traits.hpp">
+      <Filter>include\flecs\addons\cpp\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\utils\iterable.hpp">
+      <Filter>include\flecs\addons\cpp\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\utils\node_builder.hpp">
+      <Filter>include\flecs\addons\cpp\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\utils\signature.hpp">
+      <Filter>include\flecs\addons\cpp\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\utils\string.hpp">
+      <Filter>include\flecs\addons\cpp\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\utils\stringstream.hpp">
+      <Filter>include\flecs\addons\cpp\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\utils\utils.hpp">
+      <Filter>include\flecs\addons\cpp\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\cpp\world.hpp">
+      <Filter>include\flecs\addons\cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\deprecated.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\doc.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\expr.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\flecs_c.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\flecs_cpp.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\http.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\journal.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\json.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\log.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\meta.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\meta_c.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\metrics.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\module.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\monitor.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\os_api_impl.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\parser.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\pipeline.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\plecs.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\rest.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\rules.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\snapshot.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\stats.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\system.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\timer.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\addons\units.h">
+      <Filter>include\flecs\addons</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\bake_config.h">
+      <Filter>include\flecs</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\os_api.h">
+      <Filter>include\flecs</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\addons.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\allocator.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\api_defines.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\api_flags.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\api_support.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\api_types.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\bitset.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\block_allocator.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\hashmap.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\map.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\sparse.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\strbuf.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\switch_list.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\include\flecs\private\vec.h">
+      <Filter>include\flecs\private</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GLSID1\S2\Tetrise-main2\Tetrise-main\build\_deps\flecs-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{A039023F-D760-3BC1-8CC4-32A76C5FAFF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs">
+      <UniqueIdentifier>{6215A331-89B0-3F7B-BF3C-D28903803AF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons">
+      <UniqueIdentifier>{CA417458-6484-371A-9995-2C98DC8E01AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp">
+      <UniqueIdentifier>{F6A2B57D-D469-3EA1-9ADB-D0C8CFFBD3B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\impl">
+      <UniqueIdentifier>{83E60652-D78C-338D-B548-27329E37DF3E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins">
+      <UniqueIdentifier>{E30A82B0-4F6A-337B-907E-9097C39E2A29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\alerts">
+      <UniqueIdentifier>{8B87A10F-CB58-3462-A131-12D07843E63D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\app">
+      <UniqueIdentifier>{AD9CACFF-B51B-3F0B-903C-9E8D1142ED0A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\component">
+      <UniqueIdentifier>{8BEF8BA2-2EDE-3FE7-9D02-E067BE75091C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\doc">
+      <UniqueIdentifier>{A86ABF99-BE35-369A-B292-E552632E4965}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\entity">
+      <UniqueIdentifier>{0CD6360B-8263-3205-B2A6-B36F88E66116}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\enum">
+      <UniqueIdentifier>{6651D26B-AB8B-3CA3-A88A-85DF44F07264}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\event">
+      <UniqueIdentifier>{EDF8A1FC-733B-3F35-A75C-F546102FBF15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\filter">
+      <UniqueIdentifier>{4009AE09-3ED1-3FB9-A5B1-927F5B0EA862}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\id">
+      <UniqueIdentifier>{D1FE680C-3042-378C-A061-48D1B9696195}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\json">
+      <UniqueIdentifier>{E72A28B2-FEB8-3108-8F5C-C6AA0CE1F451}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\meta">
+      <UniqueIdentifier>{0816CB83-CF7F-3F37-9443-E81E918A05B8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\metrics">
+      <UniqueIdentifier>{41146766-EEA5-33C8-967C-5D5911BE58EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\module">
+      <UniqueIdentifier>{49668B17-5F18-3C81-BF98-8177D905D22E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\monitor">
+      <UniqueIdentifier>{2F6F2C29-A05A-3A9A-BD70-916AEE1A6FAE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\observer">
+      <UniqueIdentifier>{91F12ABB-4865-3165-8874-502E14FA3337}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\pipeline">
+      <UniqueIdentifier>{E087676C-D6DD-361A-B1BA-CCBEBB76AFBD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\query">
+      <UniqueIdentifier>{57745807-8E52-367B-AB43-3CCBA1DECED7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\rest">
+      <UniqueIdentifier>{043920C1-D1A8-3F43-8EA3-42F4E35CD046}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\rule">
+      <UniqueIdentifier>{CB186A17-2EE6-38F9-8A16-8C9FC10B09EC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\snapshot">
+      <UniqueIdentifier>{BD6ABEA4-E0F4-3FA6-830E-735D552FFAF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\system">
+      <UniqueIdentifier>{BCBC953D-BF3F-329E-87BC-EC08DF08CDAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\term">
+      <UniqueIdentifier>{656CA9D1-5088-387C-B96F-BAAF3C89C870}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\timer">
+      <UniqueIdentifier>{F68389F2-62A1-38C9-973E-C1C45A60F03A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\mixins\units">
+      <UniqueIdentifier>{9ADB0AE6-6242-3047-8306-22F487E6EB03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\addons\cpp\utils">
+      <UniqueIdentifier>{3E1DE844-03EE-3CB5-AAB7-CF2DA9FF1F66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\flecs\private">
+      <UniqueIdentifier>{184715B8-B62A-3AED-9551-16386AA249F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{4FA26346-0A94-31B3-8A98-6C55A76980DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\addons">
+      <UniqueIdentifier>{BA97E67D-41EC-3360-AA85-C7890F2B1268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\addons\expr">
+      <UniqueIdentifier>{C355573D-25E9-3B06-ADB2-E4C9582CA6EF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\addons\json">
+      <UniqueIdentifier>{544A661B-80A8-30D4-8F45-4DB5D6E01FC4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\addons\meta">
+      <UniqueIdentifier>{75CCD9F0-1F67-3449-92D0-BB156F0C2D13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\addons\os_api_impl">
+      <UniqueIdentifier>{2C78A127-3F4C-35C3-934F-4FD5BB836AA8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\addons\pipeline">
+      <UniqueIdentifier>{6C9A769C-EB85-3815-85AA-CD72163E6C2E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\addons\rules">
+      <UniqueIdentifier>{7F5EFDBE-DCF8-39DD-B819-B3CA482444EB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\addons\system">
+      <UniqueIdentifier>{CA3B8559-B583-3562-93FA-94D82B5E0737}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\datastructures">
+      <UniqueIdentifier>{BA566020-A7C5-3544-AB47-95F940AE3E17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\storage">
+      <UniqueIdentifier>{15E464FD-886A-3C17-A7E6-DA230A77C338}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

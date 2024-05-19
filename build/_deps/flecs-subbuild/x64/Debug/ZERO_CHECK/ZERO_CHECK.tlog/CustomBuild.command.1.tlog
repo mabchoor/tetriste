@@ -1,0 +1,10 @@
+^D:\GLSID1\S2\TETRISE-MAIN2\TETRISE-MAIN\BUILD\_DEPS\FLECS-SUBBUILD\CMAKEFILES\B3EDD4566CEC9BD7CFB54EC0C40D5137\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild -BD:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/flecs-subbuild/flecs-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

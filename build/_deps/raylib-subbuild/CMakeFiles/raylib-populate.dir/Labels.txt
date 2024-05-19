@@ -1,0 +1,14 @@
+# Target labels
+ raylib-populate
+# Source files and their labels
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/93736b5528c8803f9d42bea9bca26dd2/raylib-populate.rule
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/3cddc06ee6273b93619fc7578222d3d6/raylib-populate-complete.rule
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-build.rule
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-configure.rule
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-download.rule
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-install.rule
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-mkdir.rule
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-patch.rule
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-test.rule
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-update.rule

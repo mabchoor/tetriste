@@ -1,0 +1,42 @@
+[
+    {
+        "path": "assets\\sprites\\gems.png",
+        "type": "gems",
+        "rows": 10,
+        "columns": 10,
+        "tileWidth": 16,
+        "tileHeight": 16,
+        "scale": 2.5,
+        "layer": 3
+    },
+    {
+        "path": "assets\\sprites\\ui_1.png",
+        "type": "ui_1",
+        "rows": 30,
+        "columns": 60,
+        "tileWidth": 16,
+        "tileHeight": 16,
+        "scale": 1.5,
+        "layer": 2
+    },
+    {
+        "path": "assets\\sprites\\ui_2.png",
+        "type": "ui_2",
+        "rows": 19,
+        "columns": 57,
+        "tileWidth": 16,
+        "tileHeight": 16,
+        "scale": 2,
+        "layer": 2
+    },
+    {
+        "path": "assets\\sprites\\bg_patterns.png",
+        "type": "bg_patterns",
+        "rows": 7,
+        "columns": 13,
+        "tileWidth": 64,
+        "tileHeight": 64,
+        "scale": 0.35,
+        "layer": 1
+    }
+]

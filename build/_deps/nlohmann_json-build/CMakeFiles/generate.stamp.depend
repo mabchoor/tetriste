@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/ExternalProject/shared_internal_commands.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.29/Modules/WriteBasicConfigVersionFile.cmake
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-src/CMakeLists.txt
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-src/cmake/config.cmake.in
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-src/cmake/nlohmann_jsonConfigVersion.cmake.in
+D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-src/cmake/pkg-config.pc.in

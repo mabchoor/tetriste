@@ -1,0 +1,10 @@
+^D:\GLSID1\S2\TETRISE-MAIN2\TETRISE-MAIN\BUILD\_DEPS\NLOHMANN_JSON-SUBBUILD\CMAKEFILES\F292456A5805C7B64E2D7CA7CC32DA48\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild -BD:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/nlohmann_json-subbuild/nlohmann_json-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

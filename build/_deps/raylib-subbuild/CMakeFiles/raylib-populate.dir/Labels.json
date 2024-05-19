@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/93736b5528c8803f9d42bea9bca26dd2/raylib-populate.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/3cddc06ee6273b93619fc7578222d3d6/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-build.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-download.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-install.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-test.rule"
+		},
+		{
+			"file" : "D:/GLSID1/S2/Tetrise-main2/Tetrise-main/build/_deps/raylib-subbuild/CMakeFiles/218f1eb8f6b7a9c856eaaa91c9d21051/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}
